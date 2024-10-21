@@ -20,7 +20,7 @@ Most machine learning projects follow a similar outline, which we'll also follow
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/beginner_ml).
+You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/beginner_m).
 
 File overview:
 
@@ -49,3 +49,5 @@ You can download the files we'll use in this project here:
 
 * [teams.csv](https://drive.google.com/uc?export=download&id=1L3YAlts8tijccIndVPB-mOsRpEpVawk7) - the team-level data that we use in this project.
 * [athlete_events.csv](https://drive.google.com/uc?export=download&id=1Ah4wOyNFMGREq8Yw_Jbv7u2CeI_6tpn5) - this is the original athlete-level data
+
+  LIVE DEMO : https://github.com/DivyaDarshini2008/Cricket-team-analysis
